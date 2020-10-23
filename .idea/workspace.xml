@@ -25,12 +25,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0558273d-50d0-40d4-a52a-ad07fe57b389" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/gitremote/whats_my_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/gitremote/whats_my_name.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,7 +62,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="K:/Fall2020(16)/CSC256 Quality Assurance(Sunday)/Lesson3_Finished/Assignment/Lesson3_pyModules" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -152,7 +159,7 @@
       <workItem from="1562956237586" duration="124000" />
       <workItem from="1562957497511" duration="1434000" />
       <workItem from="1603376266113" duration="1443000" />
-      <workItem from="1603377815884" duration="3897000" />
+      <workItem from="1603377815884" duration="7512000" />
     </task>
     <servers />
   </component>
@@ -172,6 +179,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1603416491324">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603416491324" />
     <state width="1877" height="166" key="GridCell.Tab.0.bottom" timestamp="1603380335087">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
